@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3555fab1-8ee4-4875-8bb9-6e14d4eb19e1" name="Default Changelist" comment="" />
+    <list default="true" id="3555fab1-8ee4-4875-8bb9-6e14d4eb19e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/hoax-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/hoax-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beranda/css/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beranda/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beranda/layout/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beranda/layout/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beranda/layout/nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/berita/css/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoax/css/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoax/css/head-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoax/css/hoax.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoax/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoax/layout/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoax/layout/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoax/layout/hoax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoax/layout/nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/berita/css/berita.css" beforeDir="false" afterPath="$PROJECT_DIR$/beranda/css/berita.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/berita/css/head-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/beranda/css/head-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/berita/css/hoax.css" beforeDir="false" afterPath="$PROJECT_DIR$/beranda/css/hoax.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/berita/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/berita/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/berita/layout/berita.php" beforeDir="false" afterPath="$PROJECT_DIR$/beranda/layout/berita.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/berita/layout/hoax.php" beforeDir="false" afterPath="$PROJECT_DIR$/beranda/layout/hoax.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/berita/layout/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/berita/layout/nav.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,17 +35,24 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1mzmSc1N9PMJEa4VnmCWPgyzq3j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Coding/FP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -38,11 +70,28 @@
       <updated>1610504794510</updated>
       <workItem from="1610504795606" duration="14902000" />
       <workItem from="1610532552046" duration="1611000" />
-      <workItem from="1610534188369" duration="1863000" />
+      <workItem from="1610534188369" duration="2141000" />
+      <workItem from="1610536465840" duration="599000" />
+      <workItem from="1610616585908" duration="1608000" />
+      <workItem from="1610619683217" duration="2804000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

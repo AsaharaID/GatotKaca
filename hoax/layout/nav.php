@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="./css/nav.css">
+<link rel="stylesheet" href="./css/head-style.css">
 <body>
 <nav class="navbar navbar-expand-sm bg-light navbar-custom sticky-top">
     <a class="navbar-brand">
