@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3555fab1-8ee4-4875-8bb9-6e14d4eb19e1" name="Default Changelist" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/assets/berita-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/cov2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/cov3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/cov4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/cov5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/cov6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/trend1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/berita/css/berita-hari-ini.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/berita/css/trend.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/berita/layout/berita-hari-ini.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/berita/layout/trend.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/berita/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/berita/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/berita/css/berita-hari-ini.css" beforeDir="false" afterPath="$PROJECT_DIR$/berita/css/berita-hari-ini.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +51,7 @@
       <workItem from="1610534188369" duration="2141000" />
       <workItem from="1610536465840" duration="599000" />
       <workItem from="1610616585908" duration="1608000" />
-      <workItem from="1610620135820" duration="9790000" />
+      <workItem from="1610620135820" duration="9912000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1610622808224</created>
@@ -71,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610622808224</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1610633583910</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610633583910</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
