@@ -15,15 +15,15 @@
             <a class="nav-link" href="../hoax/index.php">Hoax</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#">Personal</a>
+            <a class="nav-link" href="../personal/index.php">Personal</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#">Bantuan</a>
+            <a class="nav-link" href="../bantuan/index.php">Bantuan</a>
         </li>
     </ul>
     <ul class="navbar-nav navbar-right">
-        <li><a class="nav-Daftar" href="#">Daftar</a></li>
-        <li><a class="nav-Masuk"  href="#">Masuk</a></li>
+        <li><a class="nav-Daftar" href="../daftar/index.php">Daftar</a></li>
+        <li><a class="nav-Masuk"  href="../masuk/index.php">Masuk</a></li>
     </ul>
 </nav>
 </body>
